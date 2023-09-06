@@ -7,4 +7,3 @@
 ### 'Screen'
 
 ![](hamburger.gif)
-# hamburger-menu-react
